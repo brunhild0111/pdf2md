@@ -23,7 +23,7 @@ def main():
     parser.add_argument(
         "--pdf",
         type=str,
-        default="E-DBSCAN.pdf",
+        default="input/sample.pdf",
         help="Path to the input PDF file",
     )
     parser.add_argument(
